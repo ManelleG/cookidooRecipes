@@ -1,0 +1,43 @@
+{
+  "name": "Lasagne à la bolognaise",
+  "image": "https://assets.tmecosys.com/image/upload/img/recipe/ras/Assets/0beecc2f-0741-46ca-8367-7f44131798cc/Derivates/35f09240-df4b-431a-a8d2-c847bd0ac0b3",
+  "isBasedOn": "https://cookidoo.fr/recipes/recipe/fr-FR/r54116",
+  "tool": [
+    "TM6",
+    "TM5"
+  ],
+  "totalTime": "PT2H30M",
+  "prepTime": "PT40M",
+  "recipeYield": {
+    "value": 4,
+    "unitText": "portion"
+  },
+  "recipeIngredient": [
+    "200 g de parmesan, coupé en morceaux (3 cm)",
+    "300 g de légumes variés (céleri, carottes et oignons par ex.), coupés en morceaux",
+    "40 g d'huile d'olive extra vierge",
+    "400 g de viande hachée",
+    "70g d’eau et 30g de vinaigre blanc",
+    "300 g de tomates concassées en conserve",
+    "1 - 1.5 c. à café de sel, à ajuster en fonction des goûts",
+    "0.5 - 1 c. à café de poivre noir moulu, à ajuster en fonction des goûts",
+    "500 g de lait",
+    "40 g de beurre mou, en morceaux",
+    "50 g de farine de blé",
+    "1 c. à café rase de sel",
+    "1 - 2 pincées de noix de muscade fraîchement râpée",
+    "beurre, pour le moule et la finition",
+    "250 g de lasagne sèches, env. 12 feuilles (10 cm x 20 cm)"
+  ],
+  "recipeInstructions": [
+    "Mettre le parmesan dans le bol et râper 15 sec/vitesse 10. Transvaser dans un récipient et réserver.",
+    "Mettre les légumes et l'huile d'olive dans le bol. Mixer 5 sec/vitesse 7 et rissoler 5 min/120°C/vitesse 2.",
+    "Ajouter le mélange de viandes hachées, le dissocier à l'aide de la spatule si nécessaire, et rissoler 8 min/120°C//vitesse 1.",
+    "Ajouter le vin blanc sec et mijoter 5 min/Varoma//vitesse 1.",
+    "Ajouter les tomates concassées, le sel et le poivre, puis mijoter 20 min/100°C//vitesse . Transvaser dans un récipient et réserver. Nettoyer le bol.",
+    "Mettre le lait, le beurre, la farine, le sel et la noix de muscade dans le bol, puis cuire 12 min/100°C/vitesse 3.",
+    "Préchauffer le four à 180°C. Beurrer légèrement un plat à gratin (30 x 25 x 6 cm, utiliser le plat rond en verre) et réserver.",
+    "Couvrir le fond du plat d'une fine couche de sauce bolognaise. Ajouter une couche de feuilles de lasagne, couvrir d'une nouvelle couche de sauce bolognaise, saupoudrer d'un peu de parmesan râpé et couvrir d'une couche de sauce béchamel. Répéter jusqu'à épuisement des ingrédients. Terminer par une couche de sauce béchamel, saupoudrer avec le reste de parmesan et parsemer de noisettes de beurre.",
+    "Enfourner et cuire 30-40 minutes à 180°C. En fin de cuisson, laisser reposer 15-20 minutes avant de couper en parts rectangulaires et de servir."
+  ]
+}
